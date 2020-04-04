@@ -1,6 +1,6 @@
-Este trabalho de conclusão de curso, da Universidade Federal da Paraíba, no curso de Bacharelado em Sistemas de Informação.
+Este trabalho de conclusão de curso, da Universidade Federal da Paraíba, no curso de Bacharelado em Sistemas de Informação, com o tema: "Criação de Trechos de Letras para Músicas usando Redes Neurais Recorrentes".
 
-Temos o objetivo de disponibilizar o algoritmo, utilizando bibliotecas de licença MIT e contendo também um algoritmo de 'raspagem' de textos web (Scrapy).
+Temos o objetivo de disponibilizar um algoritmo, utilizando bibliotecas chamada textgenrnn de licença MIT e contendo também um algoritmo de 'raspagem' de textos web (Scrapy).
 
 Para executar siga as orientações explicadas no artigo científico: https://docs.google.com/document/d/1rxq5EWFYLUjWisjAr4txZc7RXvRqKPfIrSdKkN0UbR4/edit?usp=sharing
 
